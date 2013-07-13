@@ -80,6 +80,7 @@ class EJDA_Colors {
 
 			'cf_colors_footer_color' => 'lightest_darkest_dark',
 			'cf_colors_footer_a' => 'light_medium_dark',
+			'cf_colors_header_a_hover' => 'all_lightest_darkest',
 		); 
 
 		foreach ($filters as $filter => $function) {
@@ -124,6 +125,17 @@ class EJDA_Colors {
 		$second = $this->all_second_medium($key);
 		unset($colors[$second]);
 
+		$color = $this->greatest_contrast($colors, $this->medium);
+		if ($color) {
+			return $this->color_key($color);
+		}
+		return $key;
+	}
+
+	function all_lightest_darkest($key) {
+		$colors = $this->colors;
+		unset($colors['lightest']);
+		unset($colors['darkest']);
 		$color = $this->greatest_contrast($colors, $this->medium);
 		if ($color) {
 			return $this->color_key($color);

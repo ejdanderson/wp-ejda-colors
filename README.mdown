@@ -1,3 +1,5 @@
+This plugin was mostly an expirement on constructing the highest contrast a background color and many other colors. However, it is currently in use with some overrides on [evanjdanderson.com](http://evanjdanderson.com)
+
 # What this plugin does
 
 This plugin is specifically designed to work with the [FavePersonal](http://crowdfavorite.com/wordpress/themes/favepersonal/) theme or any 
