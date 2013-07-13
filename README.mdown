@@ -1,6 +1,6 @@
 # What this plugin does
 
-This plugin is specifically designed to work with the (FavePersonal)[http://crowdfavorite.com/wordpress/themes/favepersonal/] theme or any 
+This plugin is specifically designed to work with the [FavePersonal](http://crowdfavorite.com/wordpress/themes/favepersonal/) theme or any 
 child theme. It automatically chooses the best contrasting colors for the backgrounds. This will allow you to choose lighter background colors where typically the lightest text shows up or dark colors for backgrounds where darker colors show up. 
 
 # What this plug does not do
@@ -9,5 +9,5 @@ This plugin will not change any of the colors you see in preview mode, which are
 
 
 # Contributing
-Contributions can be made on (GitHub)[https://github.com/kidfiction/wp-ejda-colors]
+Contributions can be made on [GitHub](https://github.com/kidfiction/wp-ejda-colors)
 
