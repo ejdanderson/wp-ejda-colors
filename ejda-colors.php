@@ -4,7 +4,7 @@ Plugin Name: EJDA FavePersonal Colors
 Plugin URI: http://evanjdanderson.com
 Description: Automatically choose best contrasting text colors for the FavePersonal theme
 Version: 1.0
-Author: Automattic
+Author: Evan Anderson
 Author URI: http://evanjdanderson.com
 License: GPLv2 or later
 */

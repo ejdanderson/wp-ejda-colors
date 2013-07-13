@@ -3,7 +3,7 @@
 This plugin is specifically designed to work with the [FavePersonal](http://crowdfavorite.com/wordpress/themes/favepersonal/) theme or any 
 child theme. It automatically chooses the best contrasting colors for the backgrounds. This will allow you to choose lighter background colors where typically the lightest text shows up or dark colors for backgrounds where darker colors show up. 
 
-# What this plug does not do
+# What this plugin does not do
 
 This plugin will not change any of the colors you see in preview mode, which are mostly background colors. This plugin does not allow you to choose text colors, but does so automatically with hopes to provide consistant constrasting colors.
 
